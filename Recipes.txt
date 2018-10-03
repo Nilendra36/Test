@@ -7,6 +7,9 @@ Maggie
 Pasta
 Chicken Fry
 
+Burger
+Pizza
+Chicken Masala
 
 
 
